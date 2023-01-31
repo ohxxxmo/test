@@ -3,6 +3,7 @@ int add(int num1, int num2);
 int main()
 {
     
+    int i;
     printf("sum = %d \n", add(1,3));
     return 0;
 }
